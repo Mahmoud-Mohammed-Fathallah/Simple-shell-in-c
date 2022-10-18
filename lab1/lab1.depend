@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648061382 source:/home/mahmoud/Desktop/lab1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<readline/readline.h>
+	<readline/history.h>
+
